@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/j360-code/j360-code.iml" filepath="$PROJECT_DIR$/j360-code/j360-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j360-exception/j360-exception.iml" filepath="$PROJECT_DIR$/j360-exception/j360-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j360-protocol.iml" filepath="$PROJECT_DIR$/j360-protocol.iml" />
+    </modules>
+  </component>
+</project>
