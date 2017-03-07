@@ -14,5 +14,5 @@ public class Result<T> {
 
     private Integer code;
 
-    private String message;
+    private String msg;
 }
