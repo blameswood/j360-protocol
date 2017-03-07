@@ -23,11 +23,19 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="j360-code" />
+        <module name="j360-exception" />
+        <module name="j360-mysql" />
+        <module name="j360-project" />
+        <module name="j360-security" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.7">
       <module name="j360-code" target="1.5" />
+      <module name="j360-exception" target="1.5" />
+      <module name="j360-mysql" target="1.5" />
+      <module name="j360-project" target="1.5" />
       <module name="j360-protocol" target="1.5" />
+      <module name="j360-security" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

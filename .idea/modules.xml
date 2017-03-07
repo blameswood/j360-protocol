@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/j360-code/j360-code.iml" filepath="$PROJECT_DIR$/j360-code/j360-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/j360-exception/j360-exception.iml" filepath="$PROJECT_DIR$/j360-exception/j360-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j360-mysql/j360-mysql.iml" filepath="$PROJECT_DIR$/j360-mysql/j360-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j360-project/j360-project.iml" filepath="$PROJECT_DIR$/j360-project/j360-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/j360-protocol.iml" filepath="$PROJECT_DIR$/j360-protocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j360-security/j360-security.iml" filepath="$PROJECT_DIR$/j360-security/j360-security.iml" />
     </modules>
   </component>
 </project>
