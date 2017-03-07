@@ -6,6 +6,6 @@ package me.j360.protocol.sales.dao;
  * Date: 2017/3/7 下午4:08
  * 说明：
  */
-public class GoodsDao {
+public class GoodsDAO {
 
 }

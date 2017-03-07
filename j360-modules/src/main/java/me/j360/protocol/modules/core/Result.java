@@ -13,4 +13,6 @@ public class Result<T> {
     private Boolean isSussess;
 
     private Integer code;
+
+    private String message;
 }
