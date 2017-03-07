@@ -9,8 +9,15 @@ package me.j360.protocol.sales.service;
 public class GoodsServiceImpl implements GoodsService {
 
 
+    //TODO:(min_xu 2017-02-01 [2017-04-01])
     @Override
     public void deleteGoods(Long goodsId) {
 
+    }
+
+
+    private int delete(Long goods){
+        //FIXME:(min_xu 2017-02-01 [2017-02-01])
+        return 0;
     }
 }
