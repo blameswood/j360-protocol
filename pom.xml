@@ -14,6 +14,7 @@
         <module>j360-mysql</module>
         <module>j360-project</module>
         <module>j360-security</module>
+        <module>j360-modules</module>
     </modules>
 
 

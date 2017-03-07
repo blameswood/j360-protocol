@@ -9,13 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>j360-project</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>j360-api</module>
-        <module>j360-client</module>
-        <module>j360-service</module>
-    </modules>
+    <artifactId>j360-modules</artifactId>
 
 
 </project>
