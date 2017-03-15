@@ -10,7 +10,7 @@ package me.j360.protocol.client.common;
  */
 public class RequestConext {
 
-    private static ThreadLocal<RequestUser> user = new ThreadLocal<>();
+    private static final ThreadLocal<RequestUser> user = new ThreadLocal<RequestUser>();
 
     public static void setUser(RequestUser requestUser) {
         user.set(requestUser);

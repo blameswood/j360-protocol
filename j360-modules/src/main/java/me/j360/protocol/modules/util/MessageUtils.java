@@ -7,4 +7,6 @@ package me.j360.protocol.modules.util;
  * 说明：
  */
 public class MessageUtils {
+
+
 }
